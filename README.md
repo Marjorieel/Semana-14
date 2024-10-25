@@ -11,5 +11,4 @@ Comando 4 # git config
 Comando 5 # git init 
 Comando 6 # git log
 Comando 7 # git clone
-
-
+![Imagen del repositorio](https://github.com/Marjorieel/Semana-14/blob/main/GI.jpg)
